@@ -1,0 +1,124 @@
+
+
+ull{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    height: 30px;
+    list-style-type: none;
+    float: right;
+
+}
+
+li{
+    float: left;
+    
+}
+
+li a{
+display: block;
+text-decoration: none;
+/* padding: 12px; */
+color: black;
+text-align: end;
+font-size: small;
+margin: 12px;
+
+
+}
+
+.img{
+    margin-left: 50%;
+    
+
+}
+
+.Serch{
+    height: 50px;
+    float: right;
+    margin-right: 10%;
+}
+
+.login{
+    height: 50px;
+    float: right;
+    
+}
+
+.Internet{
+    width: 100%;
+    height: 400px;
+}
+
+.Package{
+    height: 200px;
+    float: right;
+    border-radius: 10%;
+}
+
+.App{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.Pera{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
+.Mobil{
+    margin-left: 20%;
+}
+
+
+.Packa{
+    height: 100px;
+    float: right;
+    border-radius: 10%;
+}
+
+
+.iconLast{
+
+    height: 100px;   
+    width: 50%;
+    float: left;
+    margin-top: 25.5%;
+    
+    margin-left: 20%;
+}
+
+.gfjd{
+    /* list-style-type: none; */
+    text-decoration: none;
+    color: aliceblue;
+    float: left;
+    margin-left: 20%;
+}
+
+.True{
+    height: 30px;
+    margin-top: 10%;
+}
+
+.logl{
+
+    float: left;
+    text-decoration: none;
+}
+
+.comp{
+    padding-left: 18%;
+}
+
+.Facebook{
+    height: 30px;
+   padding-left: 30px;
+   float: right;
+margin-top: 10%;
+}
